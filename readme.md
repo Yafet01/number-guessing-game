@@ -23,7 +23,7 @@ Try to guess a randomly generated number between **1 and 100** within a limited 
 
 ### 2. Clone the Repo
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/Yafet01/number-guessing-game.git
 cd number-guessing-game
 ```
 
